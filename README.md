@@ -1,5 +1,16 @@
-# Data-Structures-And-Algorithms
-My consistent practice of competitive coding on various platforms:
-a) LeetCode
-b) HackerRank
-c) CodeChef
+# Data Structures and Algorithms
+
+This repository contains my solutions to Data Structure and Algorithm problems from platforms like:
+
+- LeetCode
+- Striver A2Z DSA Sheet
+
+Language Used: Java
+
+## Topics Covered
+- Arrays
+- Binary Search
+- Strings
+- Dynamic Programming
+- Hashing
+- Trees
