@@ -11,6 +11,7 @@ Language Used: Java
 - Arrays
 - Binary Search
 - Strings
+- Linked List
 - Dynamic Programming
 - Hashing
 - Trees
